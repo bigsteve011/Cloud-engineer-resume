@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071B33,100:0078D4&amp;height=200&amp;section=header&amp;text=Stephen%20Omowumi&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Cloud%20Engineer%20%7C%20Cloud%20Security%20%26%20Compliance%20Automation&amp;descSize=16&amp;descAlignY=56" alt="Stephen Omowumi | Cloud Engineer" />
+  <img width="100%" src="./assets/header.svg" alt="Stephen Omowumi | Cloud Engineer" />
 
   📍 **Kraków, Poland**
 
@@ -140,6 +140,6 @@ Cloud and DevOps engineer with **6+ years in regulated financial services, cloud
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,100:0078D4&height=110&section=footer" alt="" />
+  <img width="100%" src="./assets/footer.svg" alt="" />
 
 </div>
